@@ -1,0 +1,11 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+.env
+.uv/
+.vscode/
+.idea/
+.DS_Store
+data/
+anaconda_projects/

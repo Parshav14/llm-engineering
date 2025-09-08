@@ -1,4 +1,4 @@
-# LLM Engineering Projects 🚀
+# LLM Engineering Projects
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 ![Made with Python](https://img.shields.io/badge/Made%20with-Python-3776AB)
@@ -252,5 +252,3 @@ This repository is released under the **MIT License**. See `LICENSE` for details
 * Mermaid diagrams render on GitHub automatically—no extra setup needed.
 
 ---
-
-If you want, I can also generate a **starter `pyproject.toml`** (with `uv`) and **empty module stubs in `src/`** that match this README so it’s 100% plug-and-play.
